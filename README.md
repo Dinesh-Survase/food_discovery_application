@@ -1,1 +1,1 @@
-User-friendly food delivery app where customers can browse restaurants, explore menus, place orders, and track deliveries in real time. Designed with a clean UI and smooth navigation, it makes food ordering quick and convenient.
+User-friendly food discovery app where customers can browse restaurants, explore menus, place orders, and track deliveries in real time. Designed with a clean UI and smooth navigation, it makes food ordering quick and convenient.
